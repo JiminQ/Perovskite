@@ -1,5 +1,6 @@
 ![Part1]
-(Perovskite/part1.tiff)
+(https://github.com/JiminQ/Perovskite/blob/edit_usecases/part1.tiff)
+
 ![Part2]
-(Perovskite/part2.tiff)
+(https://github.com/JiminQ/Perovskite/blob/edit_usecases/part2.tiff)
 
