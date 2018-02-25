@@ -1,4 +1,4 @@
-![Image of Part1](https://github.com/JiminQ/Perovskite/blob/edit_usecases/Part1.png =100*)
+![Image of Part1](https://github.com/JiminQ/Perovskite/blob/edit_usecases/Part1.png =100x)
 
 
 ![Image of Part2](https://github.com/JiminQ/Perovskite/blob/edit_usecases/Part2.png)
