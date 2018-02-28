@@ -1,4 +1,4 @@
-![Image of Part1](https://github.com/JiminQ/Perovskite/blob/edit_usecases/Part1.png =100x)
+![Image of Part1](https://github.com/JiminQ/Perovskite/blob/edit_usecases/Part1.png)
 
 
 ![Image of Part2](https://github.com/JiminQ/Perovskite/blob/edit_usecases/Part2.png)
@@ -47,5 +47,5 @@ Components:
   * predict water-split ability on testing dataset
   * analyze the accuracy of prediction
   
-  ![Image of workflow3](https://github.com/JiminQ/Perovskite/blob/edit_usecases/use%20case%20flow3.png)
+  ![Image of workflow3](https://github.com/JiminQ/Perovskite/commit/b489a24b37f0369a03f0bedc2f19a7af599c09d5)
 
