@@ -10,8 +10,8 @@ predicted values of the perovskite (ii) perovskite’s water splitting ability.
 GUI user guide:
 
 1. Git clone or download our repo.
-2. Double click file GUI.py (please wait for a while because it is a little slow...)
-3. Input A_ion, B_ion, anion, mass and volume, then click ok. 
+2. Type _python GUI.py_ in command line and enter(please wait for a while because it is a little slow...). Then the GUI interface will jump out.
+3. Input A_ion, B_ion, anion, mass and volume(for example: Ca, Nb, O2N, 168 and 60.3), then click ok. 
 4. Please wait for a while, the text box on bottom will show the result on whether it can do water-splitting.
 5. If you cannot open the GUI.py, then just open the GUI4.0.ipynb, run the cell, it will show the same GUI.
 
