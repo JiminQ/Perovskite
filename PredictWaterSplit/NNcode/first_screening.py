@@ -5,8 +5,8 @@
 
 
 import pandas as pd
-import open_database
-import screen_3criteria as sc
+from KRRcode import open_database
+from NNcode import screen_3criteria as sc
 perovskite,values,data_total=open_database.read_database() #3 dataframe
 screening_data=sc.screening(data_total)                    #23 data after screening
 
